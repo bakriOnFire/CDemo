@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- LinearLayout Ids -->
+    <item type="id" name="ll0" />
+    <item type="id" name="ll1" />
+    <item type="id" name="ll2" />
+    <item type="id" name="ll3" />
+    <item type="id" name="ll4" />
+    
+    <!-- RelativeLayout Ids -->
+    <item type="id" name="rl0" />
+    <item type="id" name="rl1" />
+    <item type="id" name="rl2" />
+    <item type="id" name="rl3" />
+    <item type="id" name="rl4" />
+    
+    <!-- TableLayout Ids -->
+    <item type="id" name="tbl0" />
+    <item type="id" name="tbl1" />
+    <item type="id" name="tbl2" />
+    <item type="id" name="tbl3" />
+    <item type="id" name="tbl4" />
+    
+    <!-- TableRow Ids -->
+    <item type="id" name="tr0" />
+    <item type="id" name="tr1" />
+    <item type="id" name="tr2" />
+    <item type="id" name="tr3" />
+    <item type="id" name="tr4" />
+    <item type="id" name="tr5" />
+    <item type="id" name="tr6" />
+    
+    <!-- ListView Ids -->
+    <item type="id" name="lv0" />
+    <item type="id" name="lv1" />
+    <item type="id" name="lv2" />
+    <item type="id" name="lv3" />
+    <item type="id" name="lv4" />
+    
+    <!-- TextView ids -->
+    <item type="id" name="tv0" />
+    <item type="id" name="tv1" />
+    <item type="id" name="tv2" />
+    <item type="id" name="tv3" />
+    <item type="id" name="tv4" />
+    
+    <!-- EditText ids -->
+    <item type="id" name="edt0" />
+    <item type="id" name="edt1" />
+    <item type="id" name="edt2" />
+    <item type="id" name="edt3" />
+    <item type="id" name="edt4" />
+    <item type="id" name="edt5" />
+    
+    <!-- Button ids -->
+    <item type="id" name="btn0" />
+    <item type="id" name="btn1" />
+    <item type="id" name="btn2" />
+    <item type="id" name="btn3" />
+    <item type="id" name="btn4" />
+    
+</resources>

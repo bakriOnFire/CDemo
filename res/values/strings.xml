@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CDemo</string>
+    <string name="action_settings">Settings</string>
+    
+    <!-- Buddy List -->
+    <string name="buddy_list_title">Buddies</string>
+    
+    <!-- Register Screen -->
+    <string name="register_title">Register</string>
+    <string name="register_edittext_yourname">Your Name</string>
+    <string name="register_edittext_username">Username</string>
+    <string name="register_edittext_password">Password</string>
+    <string name="register_edittext_confirmpassword">Confirm Password</string>
+    <string name="register_edittext_email">Email</string>
+    <string name="register_edittext_mobile">Mobile No.</string>
+    <string name="register_button_register">Register</string>
+    
+    <!-- Login Screen -->
+    <string name="login_title">Login</string>
+    <string name="login_edittext_username">Username</string>
+    <string name="login_edittext_password">Password</string>
+    <string name="login_button_login">Login</string>
+    <string name="login_tv_or">OR</string>
+    <string name="login_button_register">Register</string>
+
+    
+    <!-- Error Messages -->
+    <string name="login_edittext_username_mandatory">Looks like you missed this field</string>
+    <string name="login_edittext_password_mandatory">Looks like you missed this field</string>
+</resources>

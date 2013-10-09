@@ -23,7 +23,7 @@
             </intent-filter>
         </activity>
         <service android:name="com.chat.service.ChatService"></service>
-        <activity android:name="com.chat.login.LoginActivity" android:label="@string/login_title"></activity>
+        <activity android:name="com.example.cdemo.LoginActivity" android:label="@string/login_title"></activity>
         <activity android:name="RegisterActivity" android:label="@string/register_title"></activity>
     </application>
 

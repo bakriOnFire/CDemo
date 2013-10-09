@@ -1,4 +1,6 @@
-package com.chat.login;
+package com.example.cdemo;
+
+import java.util.ArrayList;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -9,7 +11,6 @@ import android.widget.EditText;
 
 import com.actionbarsherlock.app.SherlockActivity;
 import com.example.cdemo.R;
-import com.example.cdemo.RegisterActivity;
 import com.example.cdemoutil.CConstantsInter;
 
 public class LoginActivity extends SherlockActivity implements OnClickListener {

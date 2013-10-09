@@ -1,7 +1,6 @@
 package com.example.cdemo;
 
 import com.actionbarsherlock.app.SherlockActivity;
-import com.chat.login.LoginActivity;
 import com.example.cdemoutil.CConstantsInter;
 import com.example.cdemoutil.DatabaseInter;
 import com.example.cdemoutil.LocalDBOperation;

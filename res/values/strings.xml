@@ -27,6 +27,11 @@
 
     
     <!-- Error Messages -->
+    <!-- Login -->
     <string name="login_edittext_username_mandatory">Looks like you missed this field</string>
     <string name="login_edittext_password_mandatory">Looks like you missed this field</string>
+    
+    <!-- Register -->
+    <string name="register_edittext_mandatory">Looks like you missed this field</string>
+    
 </resources>

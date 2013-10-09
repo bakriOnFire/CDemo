@@ -390,6 +390,7 @@ int string login_tv_or 0x7f09001c
 int string register_button_register 0x7f090017
 int string register_edittext_confirmpassword 0x7f090014
 int string register_edittext_email 0x7f090015
+int string register_edittext_mandatory 0x7f090020
 int string register_edittext_mobile 0x7f090016
 int string register_edittext_password 0x7f090013
 int string register_edittext_username 0x7f090012
